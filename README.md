@@ -54,19 +54,19 @@ The project includes an interactive web application built with Streamlit, enabli
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/stock-market-classification.git
+    git clone https://github.com/VivekChauhan05/Stock_Buy_Sell_Hold_Prediction.git
     ```
 
-2. **Navigate to the Project Directory**:
-    ```bash
-    cd stock-market-classification
-    ```
-
-3. **Install the Required Packages**:
+2. **Install the Required Packages**:
     ```bash
     pip install -r requirements.txt
     ```
 
+3. **Navigate to the Source File**:
+    ```bash
+    cd src
+    ```
+        
 4. **Run the Streamlit Application**:
     ```bash
     streamlit run app.py
@@ -88,26 +88,13 @@ The project includes an interactive web application built with Streamlit, enabli
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. Create a pull request.
+🚀 We warmly welcome contributions to enhance this project! Whether it's fixing bugs, adding new features, or improving documentation, your efforts will help make this project better for everyone. Let's collaborate and build something amazing together! 🌟✨
+
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the Apache License. See the `LICENSE` file for more details.
 
 ---
 
