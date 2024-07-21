@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-from src.main import DataProcessor, SMA, EMA, RSI, MACD, ADX, BuySellHold, FeatureScaling, FeatureSelection
-from src.model import  ModelDevelopment
+from main import DataProcessor, SMA, EMA, RSI, MACD, ADX, BuySellHold, FeatureScaling, FeatureSelection
+from model import  ModelDevelopment
 from streamlit_extras.let_it_rain import rain
 class StockMarketAnalysis:
     def __init__(self, file_path=None, data=None):
